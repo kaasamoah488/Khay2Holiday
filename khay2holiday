@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Khay-2-Holiday</title>
+    <link rel="stylesheet" href="Design.css">
 </head>
 <body>
     <h1>Khay 2 Holiday</h1>
